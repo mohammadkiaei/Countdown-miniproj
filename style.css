@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+h2 {
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 2rem;
+}
+
+.comming-soon {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.countdown {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.day, .hour, .minute, .second {
+    font-size: 2rem;
+}
+
+img {
+    width: 20%;
+    height: 20%;
+    padding: 2rem;
+}
+
+/* Developed by SeyedMohammadMahdi Kiaei */
