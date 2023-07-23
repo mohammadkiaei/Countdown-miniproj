@@ -1,5 +1,5 @@
-# Countdown-miniproj
-This is a countdown mini project. when the times up it means it's my birthday ;) 
-check the link.
-
-Until Ata's birthday my birthday countdown is off;
+# Countdown
+This is a Countdown mini-project that shows the time until my birthday.</br>
+[Watch Live](https://mohammadkiaei.github.io/Countdown-miniproj/)
+</br>
+</br>
